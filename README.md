@@ -6,6 +6,7 @@
 
 - I'm zjkal - a PHP developer, and a Code poet.
 - Stay curious, keep coding, and never stop learning.
+- Remember that each small step towards a sustainable future matters.
 
 # My main projects:
 
