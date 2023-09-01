@@ -4,7 +4,8 @@
 
 🎉 Welcome to my GitHub profile!
 
-I'm zjkal - a PHP developer, and a Code poet.
+- I'm zjkal - a PHP developer, and a Code poet.
+- Stay curious, keep coding, and never stop learning.
 
 # My main projects:
 
