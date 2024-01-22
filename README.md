@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-🎉 Welcome to my GitHub profile!
+🎉 Very happy to see you again!
 
 - I'm zjkal - a PHP developer, and a Code poet.
 - Stay curious, keep coding, and never stop learning.
