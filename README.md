@@ -4,8 +4,8 @@
 
 🎉 Very happy to see you again!
 
-- A PHPer.
-- A freelancer who loves life.
+- A freelance developer.
+- Love life, love myself.
 - Hope never quits.
 
 # My main projects:
