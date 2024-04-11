@@ -1,6 +1,6 @@
 # Hi, I'm zjkal.👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&icon_color=238636&text_color=e6edf3&bg_color=0d1117&hide_title=true" />
 
 🎉 Very happy to see you again!
 
