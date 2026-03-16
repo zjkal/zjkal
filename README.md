@@ -1,6 +1,5 @@
 # Hi, I'm zjkal.👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=4493f8" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&hide_title=true&hide_border=true"
