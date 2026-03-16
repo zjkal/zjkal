@@ -3,11 +3,11 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&hide_title=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=4493f8" />
 </picture>
