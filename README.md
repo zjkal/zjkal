@@ -1,6 +1,17 @@
 # Hi, I'm zjkal.👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=4493f8" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=light&hide_title=true&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=dark&hide_title=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zjkal&show_icons=true&theme=transparent&hide_title=true&hide_border=true&text_color=4493f8" />
+</picture>
 
 🎉 Very happy to see you again!
 
